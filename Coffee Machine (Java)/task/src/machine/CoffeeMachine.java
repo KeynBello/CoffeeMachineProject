@@ -217,7 +217,7 @@ public class CoffeeMachine {
     }
 
     public void buyOption() {
-        System.out.println("What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back:");
+        System.out.println("What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back: ");
         String buyOption = SCANNER.nextLine();
         switch (buyOption) {
             case "1" -> sellEspresso();
@@ -243,7 +243,7 @@ public class CoffeeMachine {
     public void coffeeShopOffer() {
         boolean menuloop = false;
         while (true) {
-            System.out.println("Write action (buy, fill, take, remaining, exit):");
+            System.out.println("Write action (buy, fill, take, remaining, exit): ");
             String option = SCANNER.nextLine();
             System.out.println();
 

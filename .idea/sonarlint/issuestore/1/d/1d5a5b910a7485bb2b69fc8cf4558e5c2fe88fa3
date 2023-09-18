@@ -1,0 +1,29 @@
+
+y
+java:S1192i"]Define a constant instead of duplicating this literal "%nSorry, not enough water!%n" 3 times.(‹Ô¸8ÕĞ¥ª1
+”
+java:S1192b"rDefine a constant instead of duplicating this literal "%nI have enough resources, making you a coffee!%n" 3 times.(’Éçöşÿÿÿÿ8ÙĞ¥ª1
+
+java:S1192e"dDefine a constant instead of duplicating this literal "%nSorry, not enough coffee beans!%n" 3 times.(ÙÔæ‰8ÚĞ¥ª1
+L	java:S106\"+Replace this use of System.out by a logger.(ˆ£ûÿÿÿÿ8ñ„Ğ¥ª1
+L	java:S106b"+Replace this use of System.out by a logger.(’Éçöşÿÿÿÿ8ƒ…Ğ¥ª1
+G	java:S106e"+Replace this use of System.out by a logger.(ÙÔæ‰8……Ğ¥ª1
+F	java:S106i"+Replace this use of System.out by a logger.(‹Ô¸8Š…Ğ¥ª1
+L	java:S106r"+Replace this use of System.out by a logger.(’Éçöşÿÿÿÿ8”…Ğ¥ª1
+G	java:S106u"+Replace this use of System.out by a logger.(ÚŠÑ 8—…Ğ¥ª1
+G	java:S106y"+Replace this use of System.out by a logger.(ÙÔæ‰8™…Ğ¥ª1
+F	java:S106}"+Replace this use of System.out by a logger.(‹Ô¸8œ…Ğ¥ª1
+M	java:S106†"+Replace this use of System.out by a logger.(’Éçöşÿÿÿÿ8¦…Ğ¥ª1
+H	java:S106‰"+Replace this use of System.out by a logger.(ÚŠÑ 8©…Ğ¥ª1
+H	java:S106"+Replace this use of System.out by a logger.(ÙÔæ‰8­…Ğ¥ª1
+G	java:S106‘"+Replace this use of System.out by a logger.(‹Ô¸8¯…Ğ¥ª1
+M	java:S106À"+Replace this use of System.out by a logger.(‰£Ç’ÿÿÿÿÿ8ô…Ğ¥ª1
+H	java:S106Ç"+Replace this use of System.out by a logger.(¨ãúØ8ú…Ğ¥ª1
+H	java:S106Î"+Replace this use of System.out by a logger.(£¶¥×8†Ğ¥ª1
+M	java:S106Õ"+Replace this use of System.out by a logger.(‰£Ç’ÿÿÿÿÿ8‰†Ğ¥ª1
+M	java:S106Ü"+Replace this use of System.out by a logger.(ñÖ•àøÿÿÿÿ8‘†Ğ¥ª1
+M	java:S106ï"+Replace this use of System.out by a logger.(ï¯©Áüÿÿÿÿ8«†Ğ¥ª1
+K
+java:S1481ô"-Remove this unused "menuloop" local variable.(ÇÄ³£8±†Ğ¥ª1
+H	java:S106ö"+Replace this use of System.out by a logger.(»Í×ë8´†Ğ¥ª1
+M	java:S106ø"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¸†Ğ¥ª1
